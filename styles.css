@@ -1,0 +1,93 @@
+.id{
+    color: rgb(89, 177, 228);
+    word-spacing: 75%;
+    background-color: rgb(255, 255, 255);
+    font-family:'Times New Roman'; 
+    font-size: 150%;
+}
+.ta{
+    padding-left:47%;
+}
+img{
+    width: 80px;
+    height: 60px;
+}
+
+title :hover{
+    background-color: rgb(0, 136, 255);
+}
+
+.title{
+    color: rgb(89, 177, 228);
+    align-content: center;
+    padding-left: 45.5%;
+    transition-delay: 100ms;
+}
+body{
+    background-color: #fff;
+}
+.msg{
+    color: rgb(89, 177, 228);
+    font-family:'Times New Roman'; 
+    padding-left: 42%;
+    padding-top: 10%;
+    font-size: x-large;
+}
+
+button{
+    width: 150px;
+    height: auto;
+    transition-duration: 1s;
+}
+
+button:hover{
+    background-color: rgb(89, 177, 228);
+}
+
+.center {
+    margin: 0;
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-emphasis-color: red;
+}
+
+.test{
+    display: none;
+}
+
+.titlemets{
+    list-style:none;
+}
+
+.topnav {
+    background-color: rgb(89, 177, 228);
+    overflow: hidden;
+}
+
+.topnav a {
+        float: left;
+        color: #f2f2f2;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+}
+.topnav a:hover {
+        background-color: whitesmoke;
+        color: black;
+}
+
+.topnav a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
+.Thank{
+    text-align: center;
+    padding-top: 15%;
+    font-size: 50px;
+
+}
+
